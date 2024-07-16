@@ -19,7 +19,7 @@ Add the following shortcode to any page or post:
 - **orderby**: Sort categories by name, ID, slug, etc.
 - **order**: Sort order (ASC for ascending, DESC for descending).
 
-**Exemple:**
+**Example:**
 
 `[custom_product_categories_no_images number="8" columns="3" orderby="name" order="ASC"]`
 
